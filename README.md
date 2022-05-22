@@ -1,5 +1,9 @@
 # Getting Started with Create React App
 
+When completed, this app will be a more complex version of the Weather-Map API app located in this repository → https://github.com/nielsmichael/Weather-API-app
+
+It will include an improved UI, more functionality, and overall better styling.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
